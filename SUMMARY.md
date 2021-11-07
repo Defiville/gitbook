@@ -17,14 +17,14 @@
   * [PowerUp Phase](v3/isla-pool/powerup-phase.md)
 * [Animals](v3/collections/README.md)
   * [Collection 1 (Toya)](v3/collections/collection-1-toya.md)
-* [HeadQuarters (Lands)](v3/headquarters-lands.md)
+* [HeadQuarters (HQs)](v3/headquarters-hqs.md)
 * [Pirates (Coming Soon)](v3/pirates-coming-soon.md)
 * [Previous Seasons](v3/previous-seasons.md)
 
-## PlugIns (Builds)
+## Plugins
 
-* [Perpetual Grant Round (PGR)](plugins-builds/perpetual-grant-round-pgr.md)
-* [Request a new one](plugins-builds/request-a-new-one.md)
+* [Perpetual Grant Round (PGR)](plugins/perpetual-grant-round-pgr.md)
+* [Request a new one](plugins/request-a-new-one.md)
 
 ## Developers
 
@@ -35,3 +35,7 @@
 
 * [Get Involved](community/get-involved.md)
 * [FAQ](community/faq.md)
+
+## SPINOFF
+
+* [Nifty Music](spinoff/nifty-music.md)
