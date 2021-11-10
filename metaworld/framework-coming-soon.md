@@ -4,7 +4,8 @@ We will release a on-chain framework to give a way to any user for creating a cu
 
 Features:
 
-* Different pools&#x20;
+* Customizable pools &#x20;
 * NFTActions
 * Create new characters
-* Define custom game rules &#x20;
+* Define custom game rules
+* Define native world token

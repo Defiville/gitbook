@@ -12,13 +12,12 @@
 * [Introduction](v3/features.md)
 * [ISLA Pool](v3/isla-pool/README.md)
   * [Protocol](v3/isla-pool/protocol.md)
-  * [Buying Phase](v3/isla-pool/buying-phase.md)
   * [NFTActions](v3/isla-pool/nftactions.md)
-  * [PowerUp Phase](v3/isla-pool/powerup-phase.md)
+* [Bany (3,3)](v3/bany-3-3.md)
 * [Animals](v3/collections/README.md)
   * [Collection 1 (Toya)](v3/collections/collection-1-toya.md)
 * [HeadQuarters (HQs)](v3/headquarters-hqs.md)
-* [Pirates (Coming Soon)](v3/pirates-coming-soon.md)
+* [Pirates DAO (Coming Soon)](v3/pirates-dao-coming-soon.md)
 * [Previous Seasons](v3/previous-seasons.md)
 
 ## Plugins

@@ -1,2 +1,0 @@
-# Buying Phase
-
