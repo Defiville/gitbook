@@ -13,7 +13,8 @@
 * [ISLA Pool](v3/isla-pool/README.md)
   * [Protocol](v3/isla-pool/protocol.md)
   * [NFTActions](v3/isla-pool/nftactions.md)
-* [Bany (3,3)](v3/bany-3-3.md)
+  * [Tokenomics](v3/isla-pool/tokenomics.md)
+* [bAny (3,3)](v3/bany-3-3.md)
 * [Animals](v3/collections/README.md)
   * [Collection 1 (Toya)](v3/collections/collection-1-toya.md)
 * [HeadQuarters (HQs)](v3/headquarters-hqs.md)
@@ -29,6 +30,7 @@
 
 * [Resources](developers/resources.md)
 * [Contracts](developers/faq.md)
+* [Equations](developers/equations.md)
 
 ## COMMUNITY
 
