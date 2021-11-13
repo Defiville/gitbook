@@ -10,10 +10,9 @@
 ## V3 (Season 3) <a href="v3" id="v3"></a>
 
 * [Introduction](v3/features.md)
-* [ISLA Pool](v3/isla-pool/README.md)
-  * [Protocol](v3/isla-pool/protocol.md)
-  * [NFTActions](v3/isla-pool/nftactions.md)
-  * [Tokenomics](v3/isla-pool/tokenomics.md)
+* [ISLA Pool](v3/isla-pool.md)
+* [Tokenomics](v3/tokenomics.md)
+* [NFTAction](v3/nftaction.md)
 * [bAny (3,3)](v3/bany-3-3.md)
 * [Animals](v3/collections/README.md)
   * [Collection 1 (Toya)](v3/collections/collection-1-toya.md)

@@ -6,11 +6,11 @@ description: A brave new world
 
 # Introduction
 
-##
+Welcome to the season 3 (V3)
 
-## Does bToken has same value than token? <a href="is-time-a-stable-coin" id="is-time-a-stable-coin"></a>
+## Does bAny has same value than token? <a href="is-time-a-stable-coin" id="is-time-a-stable-coin"></a>
 
-With the creation of the Bany (3,3). it aspires to become an algorithmic reserve currency, initially backed by one unit of the backed token, and it will increase in time thanks by the fees collected via the bonds sale.
+With the creation of the bAny (3,3). it aspires to become an algorithmic reserve currency, initially backed by one unit of the backed token, and it will increase in time thanks by the fees collected via the bonds sale.
 
 
 
