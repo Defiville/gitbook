@@ -4,7 +4,7 @@ It is a utility NFT useful for managing any type of DeFi action, like a deposit 
 
 The token image (tokenURI) is a loot style, it displays infos related to the action.
 
-![](<../.gitbook/assets/Screen Shot 2021-11-13 at 6.50.20 PM.png>)
+![NFT Image](<../.gitbook/assets/Screen Shot 2021-11-13 at 6.50.20 PM.png>)
 
 It is the fist NFTAction created as test. ([https://opensea.io/collection/nftaction](https://opensea.io/collection/nftaction))
 
