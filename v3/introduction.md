@@ -12,8 +12,6 @@ Welcome to the season 3 (V3)
 
 With the creation of the bAny (3,3). it aspires to become an algorithmic reserve currency, initially backed by one unit of the backed token, and it will increase in time thanks by the fees collected via the bonds sale.
 
-
-
 ## bAny is backed by Any. <a href="time-is-backed-not-pegged-1" id="time-is-backed-not-pegged-1"></a>
 
 Each bAny token is backed by 1 Any, during the first bond minting, but it will increase at each rebase. (bDAI is backed by DAI). As we said, the treasury backs every bAny with at least 1 Any, and every user, burning the token can redeem the backed amount. When the bAny:Any rate will be lower than the backed amount, this has the effect of pushing bAny price back up to the backed value.
@@ -47,11 +45,9 @@ As the protocol controls the funds in its treasury, **bAny** can only be minted 
 
 As the protocol accumulates more PCV, more runway is guaranteed for the stakers. This means the stakers can be confident that the current staking APY can be sustained for a longer term because the TBA is increasing in time. It can be seen as if this "floor price" that increases in time can guarantee that the price of the token can stay above it.&#x20;
 
-## &#x20;<a href="why-is-the-market-price-of-time-so-volatile" id="why-is-the-market-price-of-time-so-volatile"></a>
+## What is the point of buying it now when bAny trades at a very high premium? <a href="what-is-the-point-of-buying-it-now-when-time-trades-at-a-very-high-premium" id="what-is-the-point-of-buying-it-now-when-time-trades-at-a-very-high-premium"></a>
 
-## What is the point of buying it now when TIME trades at a very high premium? <a href="what-is-the-point-of-buying-it-now-when-time-trades-at-a-very-high-premium" id="what-is-the-point-of-buying-it-now-when-time-trades-at-a-very-high-premium"></a>
-
-When you buy and stake any bAny token, you capture a percentage of the supply (market cap) which will remain close to a constant. This is because your staked bAny balance also increases along with the circulating supply. The implication is that if you buy bAny when the market cap is low, you would be capturing a larger percentage of the market cap.
+When you buy and stake any **bAny** token, you capture a percentage of the supply (market cap) which will remain close to a constant. This is because your staked **bAny** balance also increases along with the circulating supply. The implication is that if you buy **bAny** when the market cap is low, you would be capturing a larger percentage of the market cap.
 
 ## What is a rebase? <a href="what-is-a-rebase" id="what-is-a-rebase"></a>
 
@@ -61,12 +57,6 @@ Rebase is a mechanism by which your staked bAny balance increases automatically.
 
 In Defiville, you can stake any bAny token supported into our world (in other world within our metaworld different token can be created). Staked **bAny** represents your principal, and the compound interest is added periodically on every epoch (8 hours) thanks to the rebase mechanism. the APY will grow exponentially over time.
 
-
-
-
-
-
-
 ## What is the bAny intrinsic value ? <a href="what-will-be-time-intrinsic-value-in-the-future" id="what-will-be-time-intrinsic-value-in-the-future"></a>
 
 The intrinsic value is determined by the TAB, it is the treasury amount reserved for each token minted. For example, if the treasury could guarantee to back every bAny with 10 **Any**, the intrinsic value will be 10 **Any**. It can also be decided by the future DAO.
@@ -75,30 +65,27 @@ The intrinsic value is determined by the TAB, it is the treasury amount reserved
 
 Let’s say the protocol targets an APY of 100,000%. This would translate to a rebase rate of about 0.6328%, or a daily growth of about 2%. Please refer to the [**equation**](https://wonderland.gitbook.io/wonderland/basics/faq#how-is-the-apy-calculated) above to learn how APY is calculated from the rebase rate.
 
-If there are 100,000 TIME tokens staked right now, the protocol would need to mint an additional 2000 TIME to achieve this daily growth. This is achievable if the protocol can bring in at least 2000 MIM daily from bond sales. If the protocol fails to achieve this, the APY of 100,000% cannot be guaranteed.
+If there are 100,000 **bAny** tokens staked right now, the protocol would need to mint an additional 2000 **bAny** to achieve this daily growth. This is achievable if the protocol can bring in at least 2000 **Any** daily from bond sales. If the protocol fails to achieve this, the APY of 100,000% cannot be guaranteed.
 
-## Do I have to unstake and stake TIME on every epoch to get my rebase rewards? <a href="do-i-have-to-unstake-and-stake-time-on-every-epoch-to-get-my-rebase-rewards" id="do-i-have-to-unstake-and-stake-time-on-every-epoch-to-get-my-rebase-rewards"></a>
+## Do I have to unstake and stake bAny on every epoch to get my rebase rewards? <a href="do-i-have-to-unstake-and-stake-time-on-every-epoch-to-get-my-rebase-rewards" id="do-i-have-to-unstake-and-stake-time-on-every-epoch-to-get-my-rebase-rewards"></a>
 
-No. Once you have staked **TIME** with Wonderland, your staked **TIME** (**MEMOries**) balance will auto-compound on every epoch. _That increase in balance represents your rebase rewards._
+No. Once you have staked **bAny**, your staked **bAny** balance will auto-compound on every epoch. _That increase in balance represents your rebase rewards._
 
 ## How do I track my rebase rewards? <a href="how-do-i-track-my-rebase-rewards" id="how-do-i-track-my-rebase-rewards"></a>
 
-You can track your rebase rewards by calculating the increase in your staked **TIME** balance.
+You can track your rebase rewards by calculating the increase in your staked **bAny** balance.
 
-1\. Record down the Current Index value on the staking page when you first stake your **TIME**. Let's call this the Start Index.
+1\. Record down the Current Index value on the staking page when you first stake your **bAny**. Let's call this the Start Index.
 
 2\. After staking for some time, if you want to determine by how much your balance has increased, check the Current Index value again. Let's call this the End Index.
 
-3\. By dividing the End Index by Start Index, you would get the ratio by which your staked **TIME** balance has increased.
+3\. By dividing the End Index by Start Index, you would get the ratio by which your staked **bAny** balance has increased.
 
 $$
 ratio = endIndex / startIndex
 $$
 
-## Is Wonderland Audited?
+## Is V3 Audited ?
 
-Wonderland is currently unaudited! It is a fork of Olympus DAO on the avalanche Network, audits will occur at a later stage. Stay cautious!
+&#x20;It is currently unaudited, the bonding mechanism is forked from the Olympus DAO, other contracts have been modified and others developed by scratch. One of the first community proposes will be to use Tasks funds for paying an official audits. DYOR before investing any fund.
 
-## Why is it Minting and not Bonding?
-
-Here at Wonderland we believe that minting better describes the action that users are taking, when purchasing TIME with different assets. If you go to the "Mint" page of the website, you will be able to mint TIME tokens, effectively selling your assets for discounted **TIME** tokens. Depsite the name difference, the process is exactly the same as a Bond Purchase on Olympus DAO!
