@@ -26,26 +26,26 @@ The bAny token has the same bonding/minting mechanism introduced by Olympus, to 
 
 ## What is (🏝, 🏝) for Defiville ? <a href="what-is-the-deal-with-hat-hat" id="what-is-the-deal-with-hat-hat"></a>
 
-(🏝, 🏝) will be the Defiville new motto. We love community and first of all we want the everyone can start to cooperate and give its contributor into the community. ISLA stakers will receive all different bAny tokens created into our world. Currently, there are three actions a user can take:
+(🏝, 🏝) will be the Defiville new motto. We love community and first of all we want the everyone can start to cooperate and give its contributor into the community. ISLA stakers will receive all different **bAny** tokens created into our world. Currently, there are three actions a user can take:
 
 * _Staking _
 * _Minting_ (_Bonding_)
 * _Selling_&#x20;
 
-Staking and minting are considered beneficiary to the protocol, while selling is considered detrimental. Staking and selling will also cause a price move, while bonding (minting) does not (we consider buying TIME from the market as a prerequisite of staking, thus causing a price move). If both actions are beneficiary, the actor who moves price also gets half of the benefit (+🫖). If both actions are contradictory, the bad actor who moves price gets half of the benefit (+🫖), while the good actor who moves price gets half of the downside (Ⅹ). If both actions are detrimental, which implies both actors are selling, they both get the worst possible outcome (❌)!
+Staking and minting are considered beneficiary to the protocol, while selling is considered detrimental. Staking and selling will also cause a price move, while bonding (minting) does not (we consider buying **bAny** from the market as a prerequisite of staking, thus causing a price move). If both actions are beneficiary, the actor who moves price also gets half of the benefit. If both actions are contradictory, the bad actor who moves price gets half of the benefit, while the good actor who moves price gets half of the downside (Ⅹ). If both actions are detrimental, which implies both actors are selling, they both get the worst possible outcome (❌)!
 
 Thus, given two actors, all scenarios of what they could do and the effect on the protocol are shown here:
 
-* If we both stake, it is the best thing for both of us and the protocol (both users gets the The Mad Hatter's hat).
-* If one of us stakes and the other one bonds, it is also great because staking takes the bAny token off the market and put it into the protocol, while bonding provides liquidity and bAny for the treasury!&#x20;
+* If we both stake, it is the best thing for both of us and the protocol.
+* If one of us stakes and the other one bonds, it is also great because staking takes the **bAny** token off the market and put it into the protocol, while bonding provides liquidity and **bAny** for the treasury!&#x20;
 * When one of us sells, it diminishes effort of the other one who stakes or bonds.
 * When we both sell, it creates the worst outcome for both of us and the protocol.
 
 ## Why is PCV important? <a href="why-is-pcv-important" id="why-is-pcv-important"></a>
 
-As the protocol controls the funds in its treasury, **bAny** can only be minted or burned by the protocol. When it is burned, user can redeem the TBA, this also guarantees that the protocol can always back 1 **TIME** with 1 **MIM**. You can easily define the risk of your investment because you can be confident that the protocol will permit to redeem 1 **Any** below 1 **Any** price with the treasury assets, so it will bring the price over 1 Any again.
+As the protocol controls the funds in its treasury, **bAny** can only be minted by the protocol, or rented. You can easily define the risk of your investment because you can be confident that the protocol will permit to rent 1 **Any** even if the price if below 1 **Any** price with the treasury assets, so it will bring the price over 1 **Any** again.
 
-As the protocol accumulates more PCV, more runway is guaranteed for the stakers. This means the stakers can be confident that the current staking APY can be sustained for a longer term because the TBA is increasing in time. It can be seen as if this "floor price" that increases in time can guarantee that the price of the token can increase also&#x20;
+As the protocol accumulates more PCV, more runway is guaranteed for the stakers. This means the stakers can be confident that the current staking APY can be sustained for a longer term because the TBA is increasing in time. It can be seen as if this "floor price" that increases in time can guarantee that the price of the token can stay above it.&#x20;
 
 ## &#x20;<a href="why-is-the-market-price-of-time-so-volatile" id="why-is-the-market-price-of-time-so-volatile"></a>
 
