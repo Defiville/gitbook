@@ -7,3 +7,10 @@ description: >-
 
 # Introduction
 
+## What is a Metaworld ?
+
+In these last years we saw the born of the first projects that aims to create a metaworld into blockchains, but what does it mean ? A single world/game where NFTs have different characteristics based on their context, or maybe a multi world/game where users can still use the same NFT but&#x20;
+
+## What does Metaworld mean for Defiville ?
+
+We at Defiville, &#x20;
